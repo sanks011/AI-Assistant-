@@ -5,8 +5,7 @@ import { auth } from './firebase/firebase';
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import SignIn from './components/SignIn';
-import SignUp from './components/SignUp';
-
+import SignUp from './components/Signup';
 import VoiceAssistant from './pages/VoiceAssistant';
 
 const App = () => {
