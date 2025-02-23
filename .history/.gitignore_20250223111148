@@ -30,6 +30,3 @@ dist-ssr
 /.env.production
 /.env.staging
 env.local
-env
-.env
-/env

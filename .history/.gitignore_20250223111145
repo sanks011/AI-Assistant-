@@ -29,7 +29,4 @@ dist-ssr
 /.env.test
 /.env.production
 /.env.staging
-env.local
 env
-.env
-/env

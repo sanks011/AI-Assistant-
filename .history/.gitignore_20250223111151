@@ -31,5 +31,3 @@ dist-ssr
 /.env.staging
 env.local
 env
-.env
-/env
