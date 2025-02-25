@@ -1,0 +1,7 @@
+.shadow-glow-teal {
+    box-shadow: 0 0 15px rgba(20, 184, 166, 0.5);
+  }
+  
+  .filter.drop-shadow-glow {
+    filter: drop-shadow(0 0 8px rgba(45, 212, 191, 0.5));
+  }
